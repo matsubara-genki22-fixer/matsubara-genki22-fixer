@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![](https://raw.githubusercontent.com/matsubara-genki22-fixer/matsubara-genki22-fixer/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/matsubara-genki22-fixer/matsubara-genki22-fixer/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/matsubara-genki22-fixer/matsubara-genki22-fixer/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
 <!--
 **matsubara-genki22-fixer/matsubara-genki22-fixer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
